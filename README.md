@@ -18,8 +18,10 @@
 | [14891번: 톱니바퀴](https://www.notion.so/f9d822e66e374296a1159f9358fe1553) | 19.03.22 | Simulation |
 | [15685번: 드래곤 커브](https://www.notion.so/1f2caee6b6874673857cffba9c62055c) | 19.03.22 | Simulation |
 | [995. Minimum Number of K Consecutive Bit Flips](https://www.notion.so/a61495b8e6f443a78b054a557f5f66c6) | 19.04.04 | Greedy     |
-| [1005. Maximize Sum Of Array After K Negations](https://www.notion.so/575c51464c8c472b926b683e6f2f92bd) | 19.04.04 | Greedy     |
-| [55. Jump Game](https://www.notion.so/4982dbf0dc79495ca51895288788bf48) | 19.04.04 | Greedy     |
+| [1005. Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) | 19.04.04 | Greedy     |
+| [55. Jump Game](https://leetcode.com/problems/jump-game/)    | 19.04.04 | Greedy     |
 | [455. assign cookies](https://leetcode.com/problems/assign-cookies/) | 19.04.12 | Greedy     |
 | [874. Walking_Robot_Simulation](https://leetcode.com/problems/walking-robot-simulation/) | 19.04.12 | Greedy     |
+| [921.minimum-add-to-make-parentheses-valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | 19.04.12 | Greedy     |
+| [860.lemonade-change](https://leetcode.com/problems/lemonade-change/) | 19.04.12 | Greedy     |
 
