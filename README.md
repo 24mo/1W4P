@@ -1,6 +1,6 @@
 # 1W4P
 
-| 문제                                                         | 날짜     | 종류       |
+| 문제                                                         | 날짜     | 태그       |
 | ------------------------------------------------------------ | -------- | ---------- |
 | [200. Number of Islands](https://www.notion.so/ea29fc6cc17c45ceaf84083dc12bb9e8) | 19.02.07 | DFS        |
 | [559. Maximum Depth of N-ary Tree](https://www.notion.so/b2b22d9d53174c6eac99869d946cf595) | 19.02.07 | DFS        |
@@ -24,4 +24,10 @@
 | [874. Walking_Robot_Simulation](https://leetcode.com/problems/walking-robot-simulation/) | 19.04.12 | Greedy     |
 | [921.minimum-add-to-make-parentheses-valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | 19.04.12 | Greedy     |
 | [860.lemonade-change](https://leetcode.com/problems/lemonade-change/) | 19.04.12 | Greedy     |
+| [494. Target Sum](https://leetcode.com/problems/target-sum/) | 19.04.18 | DFS        |
+| [690. Employee Importance](https://leetcode.com/problems/employee-importance/) | 19.04.18 | DFS        |
+| [1987번: 알파벳](https://www.acmicpc.net/problem/1987)       | 19.04.18 | DFS        |
+| [2580번: 스도쿠](https://www.acmicpc.net/problem/2580)       | 19.04.18 | DFS        |
+
+
 
