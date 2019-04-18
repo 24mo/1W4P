@@ -28,6 +28,8 @@
 | [690. Employee Importance](https://leetcode.com/problems/employee-importance/) | 19.04.18 | DFS        |
 | [1987번: 알파벳](https://www.acmicpc.net/problem/1987)       | 19.04.18 | DFS        |
 | [2580번: 스도쿠](https://www.acmicpc.net/problem/2580)       | 19.04.18 | DFS        |
+| [100. same-tree](https://leetcode.com/problems/same-tree/)       | 19.04.18 | DFS        |
+| [559. maximum-depth-of-n-ary-tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)       | 19.04.18 | DFS        |
 
 
 
